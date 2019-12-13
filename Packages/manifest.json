@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.madstark.urp-custom-pp": "https://github.com/MadStark/MadStarkCustomPP.git#upm",
+    "com.madstark.urp-custom-pp": "https://github.com/MadStark/com.madstark.urp-custom-pp.git",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ide.rider": "1.1.0",
     "com.unity.ide.vscode": "1.1.3",
@@ -43,8 +43,8 @@
   },
   "lock": {
     "com.madstark.urp-custom-pp": {
-      "revision": "upm",
-      "hash": "04e3e25da6f47d9c0ed5d99bb2be3275d8d1705c"
+      "revision": "HEAD",
+      "hash": "9f11518ebd57934bc23183cfc069ed5a591f6080"
     }
   }
 }

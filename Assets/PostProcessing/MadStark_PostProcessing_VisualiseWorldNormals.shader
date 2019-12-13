@@ -15,7 +15,8 @@
             HLSLPROGRAM
             #include "Packages/com.unity.render-pipelines.universal/ShaderLibrary/SurfaceInput.hlsl"
 
-            TEXTURE2D(_MadCameraNormals);    SAMPLER(sampler_MadCameraNormals);
+            TEXTURE2D(_MadCameraNormals);
+            SAMPLER(sampler_MadCameraNormals);
 
             struct Attributes
             {
